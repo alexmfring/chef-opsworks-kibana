@@ -9,4 +9,4 @@ cookbook 'ark'
 cookbook 'htpasswd'
 
 cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elasticsearch.git'
-cookbook 'kibana', git: 'git://github.com/Fring/chef-kibana.git'
+cookbook 'kibana_lwrp', git: 'git://github.com/Fring/chef-kibana.git'
