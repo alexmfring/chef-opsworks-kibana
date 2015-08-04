@@ -1,7 +1,7 @@
 source "http://api.berkshelf.com"
 
 metadata
-cookbook 'yum', '~> 0.8.0'
+cookbook 'yum'
 cookbook 'apt'
 cookbook 'nginx'
 cookbook 'apache2'
